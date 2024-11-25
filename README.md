@@ -34,6 +34,7 @@
 </div>
 
 ## Feature
+## By Mudassir Alam
 
 - Format support:
   - EPUB (**.epub**)
